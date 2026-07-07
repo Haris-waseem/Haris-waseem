@@ -45,13 +45,10 @@ Developed as a full multi-subject deliverable, backed by a complete SRS (180 fun
 
 ### GitHub Stats
 
-![Haris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haris-waseem&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haris-waseem&layout=compact&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Haris-waseem&hide_border=true)
 
 ---
 
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-url)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](Haristraway15@gmail.com)
