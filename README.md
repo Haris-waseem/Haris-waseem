@@ -40,4 +40,4 @@ Developed as a full multi-subject deliverable, backed by a complete SRS (180 fun
 
 ### Connect
 
-LinkedIn: [your-linkedin-url]
+LinkedIn: www.linkedin.com/in/haris-waseem-2790b42a0
