@@ -50,7 +50,7 @@ I focus on understanding systems from the ground up — writing low-level C++ co
 <div align="center">
 
 <a href="https://github.com/Haris-waseem/firewall">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haris-waseem&repo=firewall&theme=midnight-purple&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&hide_border=false" alt="Firewall Repo Card"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Haris-waseem&repo=firewall&theme=midnight-purple&border_color=7c3aed&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&hide_border=false" alt="Firewall Repo Card"/>
 </a>
 
 </div>
@@ -177,13 +177,13 @@ SOC Level 1 Prep
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Haris-waseem&show_icons=true&theme=midnight-purple&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Haris-waseem&show_icons=true&theme=midnight-purple&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&hide_border=false&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haris-waseem&layout=compact&theme=midnight-purple&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=c9d1d9&hide_border=false&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Haris-waseem&layout=compact&theme=midnight-purple&bg_color=0d1117&border_color=7c3aed&title_color=a78bfa&text_color=c9d1d9&hide_border=false&langs_count=8" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Haris-waseem&theme=midnight-purple&background=0d1117&border=7c3aed&stroke=7c3aed&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Haris-waseem&theme=midnight-purple&background=0d1117&border=7c3aed&stroke=7c3aed&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="GitHub Streak"/>
 
 </div>
 
