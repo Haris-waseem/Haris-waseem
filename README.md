@@ -10,7 +10,7 @@
 
 <!-- DYNAMIC TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Building+Practical+Security+Tools+From+Scratch;BS+Cybersecurity+Technology+%40+COMSATS+Islamabad;CCNA+in+Progress+%7C+SOC+Level+1+Roadmap" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=Building+Practical+Security+Tools+From+Scratch;BS+Cybersecurity+Technology+%40+COMSATS+Islamabad;CCNA+in+Progress+%7C+SOC+Level+1+Roadmap" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -183,7 +183,7 @@ SOC Level 1 Prep
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Haris-waseem&theme=midnight-purple&background=0d1117&border=7c3aed&stroke=7c3aed&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Haris-waseem&theme=midnight-purple&background=0d1117&border=7c3aed&stroke=7c3aed&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6b7280" alt="GitHub Streak"/>
 
 </div>
 
